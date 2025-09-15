@@ -1,4 +1,4 @@
-# Elderly Home Health: AI Blood Pressure and Blood Sugar Analysis System
+# Senior Home Healthcare: AI System for Blood Pressure and Glucose Analysis
 
 **Team Members**  
 [@KyleHung7](https://github.com/KyleHung7) | [@samko5sam](https://github.com/samko5sam) | [@BlankTsai](https://github.com/BlankTsai) | [@peculab](https://github.com/peculab)
@@ -61,7 +61,7 @@ We built a web-based platform tailored for senior healthcare that integrates:
 
 ## ⚙️ Technical Architecture
 
-- **Frontend**: Intuitive web interface (React + Tailwind)  
+- **Frontend**: Python (Flask) for intuitive web interface 
 - **Backend**: Python (Flask) for data handling & AI processing  
 - **AI Tools**:
   - Trend detection (blood pressure & glucose)
